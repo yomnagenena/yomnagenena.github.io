@@ -3,6 +3,7 @@
 	height:150px;
 }
 
+
 html {
   background-color: #f5f7f9;
 }
@@ -48,8 +49,8 @@ strong {
 }
 
 .card-title {
-  color: #e16879;
-  font-weight: 300;
+  color: #163d1e;
+  font-weight: 500;
 }
 
 .card-block small {
@@ -57,7 +58,6 @@ strong {
 }
 
 .description {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz9gYFKqoJVjqMHblShivql2zUWXKfN5T5Sr2DqLGBwCd9ECm_Yw");
-  height: 300px;
+  background-image: url("https://secure.static.tumblr.com/cc64e16d384efcadb44d63e52c25d18e/vo01lf4/7Dxnplqw4/tumblr_static_tumblr_static__640.jpg");
 }
 
