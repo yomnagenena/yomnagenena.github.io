@@ -22,7 +22,7 @@ strong {
 .navbar-dark .navbar-brand{
 	color: green;
 }
-.nav-link{
+.navbar-dark .navbar-nav .open > .nav-link, .navbar-dark .navbar-nav .open > .nav-link:focus, .navbar-dark .navbar-nav .open > .nav-link:hover, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .active > .nav-link:focus, .navbar-dark .navbar-nav .active > .nav-link:hover, .navbar-dark .navbar-nav .nav-link.open, .navbar-dark .navbar-nav .nav-link.open:focus, .navbar-dark .navbar-nav .nav-link.open:hover, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.active:focus, .navbar-dark .navbar-nav .nav-link.active:hover{
 	color: green;
 }
 
@@ -43,4 +43,21 @@ strong {
   border-color: #e05164;
 }
 
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz9gYFKqoJVjqMHblShivql2zUWXKfN5T5Sr2DqLGBwCd9ECm_Yw");
+  height: 300px;
+}
 
