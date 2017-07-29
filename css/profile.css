@@ -5,6 +5,7 @@
 
 html {
   background-color: #f5f7f9;
+  position: fixed;
 }
 
 body {
@@ -16,8 +17,7 @@ strong {
   color: #222324;
 }
 .navbar {
-  background: blue;
-  position: fixed;
+  background: #c3f3f7;
 }
 
 .navbar-dark .navbar-brand{
