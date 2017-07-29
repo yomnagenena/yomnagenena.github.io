@@ -1,11 +1,11 @@
 .pepe{
 	width:150px;
 	height:150px;
+  position: fixed;
 }
 
 html {
   background-color: #f5f7f9;
-  position: fixed;
 }
 
 body {
